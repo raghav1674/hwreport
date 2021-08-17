@@ -1,0 +1,5 @@
+INVENTORY_HOSTNAME="inventoryhostname"
+BIOS_VERSION="bios version"
+TOTAL_MEMORY="ansible memory mb"
+VDA_SIZE="ansible_devices vda size"
+VDB_SIZE="ansible_devices vdb size"
